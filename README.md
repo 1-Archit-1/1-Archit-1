@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Backend+Software+Engineer;Algorithms+%26+Data+Structures;Georgia+Tech+MSCS+Grad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Backend+Software+Engineer;Data+Systems+%26+Servie+Architecture;Georgia+Tech+MSCS+Grad" alt="Typing SVG" />
 </div>
 
 ### Hi there, I'm Archit! 👋
