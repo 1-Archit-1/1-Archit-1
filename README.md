@@ -13,13 +13,13 @@
 
 ---
 
-I'm a backend-focused engineer who loves wrangling complex data, designing efficient algorithms, and building scalable platforms. Whether it's dialing in database performance or architecting a new system from scratch — I enjoy solving hard problems from the ground up.
+I'm a backend-focused engineer who loves building scalable client-facing products and working with complex data and. Whether it's dialing in data system performance or architecting a new system, I enjoy solving hard problems from the ground up.
 
-Currently working as a **Software Engineer — Catastrophe Modeling** at **Zurich Insurance Group**, building data pipelines and modeling infrastructure for large-scale risk systems.
+Currently working as a **Software Engineer** in **Catastrophe Modeling** at **Zurich Insurance Group**, building data pipelines and modeling infrastructure for large-scale risk systems.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -49,25 +49,24 @@ Currently working as a **Software Engineer — Catastrophe Modeling** at **Zuric
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 🏗️ What I Focus On
+## What I Focus On
 
 | Area | Details |
 |---|---|
 | **Backend Systems** | Scalable APIs, service architecture, performance tuning |
-| **Data Engineering** | Pipeline design, query optimization, ETL workflows |
-| **Cloud & DevOps** | CI/CD, containerization, Azure & AWS deployments |
 | **Client-Facing Products** | Modern web frameworks, clean interfaces backed by solid data layers |
+| **Data Systems** | Pipeline design, query optimization, ETL workflows |
+| **Cloud & DevOps** | CI/CD, containerization, Azure & AWS deployments |
 
 ---
 
-## ⚡ Outside of Code
+## Outside of Code
 
-When I'm not writing scripts or untangling CI/CD pipelines, you'll find me:
+When I'm not writing scripts, you'll find me:
 
 - 🐳 Tinkering with a self-hosted Docker media server
 - 🐧 Finding the most stable ways to game on Linux
@@ -78,6 +77,7 @@ When I'm not writing scripts or untangling CI/CD pipelines, you'll find me:
 <div align="center">
 
 *Always open to interesting problems and good conversations.*
+<br/>
 <br/>
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/architsengupta)
 
