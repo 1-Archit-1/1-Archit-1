@@ -13,7 +13,7 @@
 
 ---
 
-I'm a backend-focused engineer who loves building scalable client-facing products and working with complex data and. Whether it's dialing in data system performance or architecting a new system, I enjoy solving hard problems from the ground up.
+I'm a backend-focused engineer who loves building scalable client-facing products and working with complex data. Whether it's dialing in data system performance or architecting a new system, I enjoy solving hard problems from the ground up.
 
 Currently working as a **Software Engineer** in **Catastrophe Modeling** at **Zurich Insurance Group**, building data pipelines and modeling infrastructure for large-scale risk systems.
 
