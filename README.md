@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Backend+Software+Engineer;Algorithms+%26+Data+Structures;Georgia+Tech+MSCS+Grad" alt="Typing SVG" />
+</div>
+
 ### Hi there, I'm Archit! 👋
 
 I'm a backend-focused software developer who loves wrangling complex data, designing efficient algorithms, and building scalable platforms. Whether it's dialing in database performance or figuring out the perfect architecture for a new app, I enjoy solving hard problems from the ground up.
@@ -16,6 +20,7 @@ I'm a backend-focused software developer who loves wrangling complex data, desig
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
 </div>
+
 * **Languages:** Python, R, JavaScript, PHP.
 * **Databases:** PostgreSQL, MS SQL Server, MongoDB, Redis.
 * **Frameworks & Libraries:** FastAPI, R-Shiny, Laravel, Django, React, REST APIs.
