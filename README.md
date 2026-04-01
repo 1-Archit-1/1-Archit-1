@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Archit+%F0%9F%91%8B;Backend+Software+Engineer;Data+Systems+%26+Service+Architecture;Georgia+Tech+MSCS+%C2%B7+4.0+GPA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Archit+%F0%9F%91%8B;Backend+Software+Engineer;Data+Systems+%26+Service+Architecture" alt="Typing SVG" />
 
 <br/>
 
