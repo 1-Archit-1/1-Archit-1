@@ -4,17 +4,18 @@
 archit@github:~$ whoami
 Backend engineer. Atlanta, GA.
 
-archit@github:~$ cat role.txt
+archit@github:~$ cat ~/role.txt
 Software Engineer in Catastrophe Modeling
 Zurich Insurance Group
 
 Building data pipelines and modeling infrastructure
 for large-scale risk systems.
 
-archit@github:~$ cat education.txt
-MSCS, Georgia Tech · 4.0 GPA
+archit@github:~$ cat ~/education.txt
+MSc Computer Science, Georgia Tech · 4.0 GPA
+BTech Computer Science, Manipal University
 
-archit@github:~$ cat about.md
+archit@github:~$ cat ~/about.md
 I spend most of my time on data systems and service architecture: 
 - getting APIs to scale,
 - Stopping databases from being a bottleneck, and 
