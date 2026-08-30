@@ -15,9 +15,10 @@ archit@github:~$ cat education.txt
 MSCS, Georgia Tech · 4.0 GPA
 
 archit@github:~$ cat about.md
-I spend most of my time on data systems and service architecture: getting APIs to actually scale,
-making databases stop being the bottleneck, and building
-pipelines that don't need babysitting.
+I spend most of my time on data systems and service architecture: 
+- getting APIs to actually scale,
+- making databases stop being the bottleneck, and 
+- building pipelines that don't need babysitting.
 ```
 
 ---
